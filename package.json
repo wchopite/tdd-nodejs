@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Wladimir Chopite",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^29.0.0"
   },
